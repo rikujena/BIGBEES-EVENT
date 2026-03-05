@@ -71,7 +71,7 @@ export const EventsSection = () => {
   /* ✅ Razorpay Handler */
   const handlePayment = async (amount: number) => {
     try {
-      const res = await fetch(`http://localhost:8081/api/payment/create-order?amount=${amount}`, {
+      const res = await fetch(`http://bigbeesevent-backend.onrender.com/api/payment/create-order?amount=${amount}`, {
         method: "POST",
       });
 
