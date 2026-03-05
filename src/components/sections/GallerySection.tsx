@@ -17,16 +17,22 @@ const galleryItems = [
     description: "Celebrating brand excellence",
   },
   {
-    image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "2 (1).png",
     title: "Brand Strategy Workshop",
     category: "Workshops",
     description: "Client collaborative session",
   },
   {
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/1 (1).png",
     title: "Industry Networking Mixer",
     category: "Events",
     description: "Connecting brand leaders",
+  },
+  {
+    image: "/ue.jpeg",
+    title: "upcoming event",
+    category: "Workshops",
+    description: "Get in touch with us for more update on upcoming events",
   },
 ];
 
